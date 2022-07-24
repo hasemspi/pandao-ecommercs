@@ -28,32 +28,32 @@
 }
 .cat1  h1{
     color: #fff;
-    padding-right: 13%;
-    font-size: 48px;
+    font-size: 42px;
     font-weight: bold;
+    padding-left: 6%;
 }
 .cat2  h1{
     color: #fff;
-    padding-right: 13%;
-    font-size: 48px;
+    font-size: 42px;
     font-weight: bold;
+    padding-left: 6%;
 }
 .cat3 h1{
     color: #fff;
-    padding-right: 13%;
-    font-size: 48px;
+    font-size: 42px;
     font-weight: bold;
+    padding-left: 6%;
 }
 
 .cat1img{
-    width: 40%;
+    width: 35%;
 }
 .cat1 img{
-    width: 40%;
+    width: 35%;
 }
 .cat2 img{
-    width: 40%;
+    width: 35%;
 }
 .cat3 img{
-    width: 40%;
+    width: 35%;
 }
