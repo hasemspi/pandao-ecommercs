@@ -1,0 +1,59 @@
+.slider_bd{
+    background-color: #fceae8;
+}
+
+.Carousel_item h1{
+    font-size: 55px;
+    color: #554b4b;
+}
+.Carousel_item h2{
+    font-size: 40px;
+    color: #FF136F;
+}
+.Carousel_item p{
+    color: #554b4b;
+    font-size: 14px;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px;
+}
+.cat1  h1{
+    color: #fff;
+    padding-right: 13%;
+    font-size: 48px;
+    font-weight: bold;
+}
+.cat2  h1{
+    color: #fff;
+    padding-right: 13%;
+    font-size: 48px;
+    font-weight: bold;
+}
+.cat3 h1{
+    color: #fff;
+    padding-right: 13%;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.cat1img{
+    width: 40%;
+}
+.cat1 img{
+    width: 40%;
+}
+.cat2 img{
+    width: 40%;
+}
+.cat3 img{
+    width: 40%;
+}
